@@ -23,6 +23,6 @@ styles.css – styling
 script.js – interactions and carousel logic  
 assets – images and icons
 
-##Live Demo:
+## Live Demo:
 
-https://gushwork-assignment.vercel.app
+https://gushwork-frontend-assignment-seven.vercel.app/
